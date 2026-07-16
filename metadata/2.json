@@ -1,0 +1,24 @@
+{
+  "name": "OnChainForex Community Reward NFT #2",
+  "description": "A collectible reward NFT celebrating participation in the OnChainForex ecosystem.",
+  "image": "https://onchainforex.github.io/nft/images/2.png",
+  "external_url": "https://onchainforex.com",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Community Reward NFT"
+    },
+    {
+      "trait_type": "Company",
+      "value": "OnChainForex"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Network",
+      "value": "TRON"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OnChainForex Community Reward NFT #1",
+  "description": "Exclusive community reward NFT issued by OnChainForex for contributors and ecosystem members.",
+  "image": "https://boomcat7boom-hub.github.io/nft/images/1.png",
+  "external_url": "https://onchainforex.com",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Community Reward NFT"
+    },
+    {
+      "trait_type": "Company",
+      "value": "OnChainForex"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Community Reward"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Network",
+      "value": "TRON"
+    }
+  ]
+}
